@@ -4,7 +4,7 @@
 ### 🚀 Özellikler
 * Kullanıcı Dostu Arayüz: Temiz ve anlaşılır tasarımıyla metin giriş ve çıkış alanlarını kolayca yönetebilirsiniz.
 
-* Çoklu Dil Desteği: İngilizce'den Türkçe'ye (veya eklediğim diğer diller arasında) anlık metin çevirisi.
+* Çoklu Dil Desteği: İngilizce'den Türkçe'ye , Türkçe'den İngilizce'ye , Almancadan İngilizce'ye , İngilizce'den Almanca'ya , Fransızca'dan İngilizce'ye , Fransızca'dan Almanca' ya kadar daha bir çok farklı dilde  anlık metin çevirisi.
 
 * Hızlı İşlem: "Çevir" butonu ile saniyeler içinde sonuç alma.
 
