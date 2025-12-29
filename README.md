@@ -1,5 +1,6 @@
 ### 🌍 C# Çok Dilli Metin Çeviri Uygulaması
 * Bu proje, C# ve Windows Forms kullanılarak geliştirilmiş, kullanıcıların farklı diller arasında hızlıca metin çevirisi yapmasına olanak tanıyan görsel bir masaüstü uygulamasıdır.
+### Çalıştırılabilir zip dosyası linki:https://github.com/MeralYavuzturk/CeviriUygulamasi/releases/tag/v1.0.0
 
 ### 🚀 Özellikler
 * Kullanıcı Dostu Arayüz: Temiz ve anlaşılır tasarımıyla metin giriş ve çıkış alanlarını kolayca yönetebilirsiniz.
